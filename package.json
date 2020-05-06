@@ -1,0 +1,26 @@
+{
+  "name": "athena",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prettier": "prettier --write .",
+    "test": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/preset-typescript": "^7.9.0",
+    "@types/jest": "^25.2.1",
+    "husky": "^4.2.5",
+    "jest": "^26.0.1",
+    "jest-watch-master": "^1.0.0",
+    "jest-watch-select-projects": "^2.0.0",
+    "jest-watch-suspend": "^1.1.2",
+    "jest-watch-typeahead": "^0.6.0",
+    "prettier": "^2.0.5",
+    "ts-jest": "^25.5.0",
+    "typescript": "^3.8.3"
+  }
+}
