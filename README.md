@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://facebook.github.io/jest/">
-    <img width="150" height="150" vspace="" hspace="25" src="http://dp.hanlon.io/16694b99c896/jest.png">
+  <a href="https://imgur.com/JjjtW3Z">
+    <img width="150" height="150" vspace="" hspace="25" src="">
   </a>
   <h1>Athena</h1>
   <p>A powerful bootstrap solution template. Add it to your launch strategy today.</p>
