@@ -4,6 +4,14 @@ module.exports = {
     color: "bgBlue",
   },
   preset: "ts-jest",
+  transform: {
+    "^.+\\.jsx?$": "babel-jest",
+    "^.+\\.tsx?$": "ts-jest",
+  },
+  roots: ["<rootDir>"],
+  moduleNameMapper: {
+    "@models": "<rootDir>/server/src/models/index",
+  },
   testEnvironment: "node",
   collectCoverage: true,
   collectCoverageFrom: [
