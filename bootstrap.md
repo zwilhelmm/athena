@@ -21,3 +21,7 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$
 https://github.com/romkatv/powerlevel10k#meslo-nerd-font-patched-for-powerlevel10k
 
 p10k configure
+
+zsh-autosuggestions
+zsh-completions
+zsh-syntax-highlighting
